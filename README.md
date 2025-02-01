@@ -39,5 +39,5 @@ This project is a multithreaded implementation of the classic Pac-Man game using
 - Optimize multithreading for better performance.
 
 ## Author
-Developed by [Your Name] as a multithreaded game programming project.
+Developed by Ayaan Khan as a multithreaded game programming project.
 
