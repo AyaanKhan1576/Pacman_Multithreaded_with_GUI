@@ -39,5 +39,5 @@ This project is a multithreaded implementation of the classic Pac-Man game using
 - Optimize multithreading for better performance.
 
 ## Author
-Developed by Ayaan Khan as part of COAL Final Project.
+Developed by Ayaan Khan as part of Operating Systems Final Project.
 
